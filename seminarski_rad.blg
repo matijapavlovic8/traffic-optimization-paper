@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: seminarski_rad.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: fer.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: literatura.bib
+Warning--entry type for "dzs_website" isn't style-file defined
+--line 1 of file literatura.bib
+Warning--entry type for "folio3_yolov8" isn't style-file defined
+--line 45 of file literatura.bib
+Warning--to sort, need author or key in gatso
+Warning--empty year in gatso
+Warning--empty journal in yolox2021
+Warning--empty journal in kouidri2023mastering
+You've used 10 entries,
+            2773 wiz_defined-function locations,
+            648 strings with 6399 characters,
+and the built_in function-call counts, 3646 in all, are:
+= -- 324
+> -- 168
+< -- 6
++ -- 61
+- -- 51
+* -- 253
+:= -- 566
+add.period$ -- 36
+call.type$ -- 10
+change.case$ -- 47
+chr.to.int$ -- 10
+cite$ -- 25
+duplicate$ -- 179
+empty$ -- 334
+format.name$ -- 60
+if$ -- 762
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 64
+num.names$ -- 36
+pop$ -- 115
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 135
+stack$ -- 0
+substring$ -- 67
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 110
+warning$ -- 4
+while$ -- 30
+width$ -- 0
+write$ -- 138
+(There were 6 warnings)

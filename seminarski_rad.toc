@@ -1,0 +1,10 @@
+\babel@toc {croatian}{}\relax 
+\contentsline {chapter}{\numberline {1}Uvod}{1}{}%
+\contentsline {chapter}{\numberline {2}Razrada}{2}{}%
+\contentsline {section}{\numberline {2.1}Senzorika}{2}{}%
+\contentsline {section}{\numberline {2.2}Detekcija vozila}{2}{}%
+\contentsline {section}{\numberline {2.3}Klasifikacija vozila}{4}{}%
+\contentsline {section}{\numberline {2.4}Algoritam za računanje najvjerojatnijeg sljedećeg čvorišta}{5}{}%
+\contentsline {section}{\numberline {2.5}Optimizacija prometnih čvorišta podržanim učenjem i evolucijskim algoritmima}{6}{}%
+\contentsline {chapter}{\numberline {3}Zaključak}{8}{}%
+\contentsline {chapter}{\numberline {4}Literatura}{9}{}%
